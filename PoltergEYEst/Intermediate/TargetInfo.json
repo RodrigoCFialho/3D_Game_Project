@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PoltergEYEst",
+			"Path": "..\\Source\\PoltergEYEst.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PoltergEYEstEditor",
+			"Path": "..\\Source\\PoltergEYEstEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

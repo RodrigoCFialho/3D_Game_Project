@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/rodri/Documents/GitHub/3D_Game_Project/PoltergEYEst/Content/Blueprints/Sphere.uasset",
+				"C:/Users/rodri/Documents/GitHub/3D_Game_Project/PoltergEYEst/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/8K/0OLPBOSZCPU1X7E3PCLCGF.uasset",
+				"C:/Users/rodri/Documents/GitHub/3D_Game_Project/PoltergEYEst/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CX/K5IJKEMBAV3RM9B2E754ZW.uasset"
+			]
+		}
+	]
+}

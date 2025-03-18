@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PoltergEYEst.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PoltergEYEst.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PoltergEYEstEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PoltergEYEst">
+      <UniqueIdentifier>{14E54373-66BF-3271-B438-B0BD64347EB9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PoltergEYEst\PoltergEYEst.Build.cs">
+      <Filter>Source\PoltergEYEst</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PoltergEYEst\PoltergEYEst.cpp">
+      <Filter>Source\PoltergEYEst</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PoltergEYEst\PoltergEYEst.h">
+      <Filter>Source\PoltergEYEst</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PoltergEYEst\PoltergEYEstCharacter.cpp">
+      <Filter>Source\PoltergEYEst</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PoltergEYEst\PoltergEYEstCharacter.h">
+      <Filter>Source\PoltergEYEst</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PoltergEYEst\PoltergEYEstGameMode.cpp">
+      <Filter>Source\PoltergEYEst</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PoltergEYEst\PoltergEYEstGameMode.h">
+      <Filter>Source\PoltergEYEst</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PoltergEYEst\PoltergEYEstPickUpComponent.cpp">
+      <Filter>Source\PoltergEYEst</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PoltergEYEst\PoltergEYEstPickUpComponent.h">
+      <Filter>Source\PoltergEYEst</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PoltergEYEst\PoltergEYEstProjectile.cpp">
+      <Filter>Source\PoltergEYEst</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PoltergEYEst\PoltergEYEstProjectile.h">
+      <Filter>Source\PoltergEYEst</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PoltergEYEst\PoltergEYEstWeaponComponent.cpp">
+      <Filter>Source\PoltergEYEst</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PoltergEYEst\PoltergEYEstWeaponComponent.h">
+      <Filter>Source\PoltergEYEst</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

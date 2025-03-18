@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rodri\\documents\\unreal projects\\poltergeyest\\source\\poltergeyest\\poltergeyest.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rodri\\documents\\unreal projects\\poltergeyest\\intermediate\\build\\win64\\x64\\poltergeyesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\rodri\\documents\\unreal projects\\poltergeyest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\poltergeyest\\definitions.poltergeyest.h",
+            "c:\\users\\rodri\\documents\\unreal projects\\poltergeyest\\source\\poltergeyest\\poltergeyest.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
