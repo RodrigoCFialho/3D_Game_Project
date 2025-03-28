@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PoltergEYEst.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\rodri\Documents\Unreal Projects\PoltergEYEst\Intermediate\Build\Win64\x64\PoltergEYEstEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\rodri\Documents\Unreal Projects\PoltergEYEst\Intermediate\Build\Win64\x64\UnrealEditor\Development\PoltergEYEst\PoltergEYEst.init.gen.cpp.obj"
+"C:\Users\rodri\Documents\Unreal Projects\PoltergEYEst\Intermediate\Build\Win64\x64\UnrealEditor\Development\PoltergEYEst\PoltergEYEstCharacter.gen.cpp.obj"
+"C:\Users\rodri\Documents\Unreal Projects\PoltergEYEst\Intermediate\Build\Win64\x64\UnrealEditor\Development\PoltergEYEst\PoltergEYEstGameMode.gen.cpp.obj"
+"C:\Users\rodri\Documents\Unreal Projects\PoltergEYEst\Intermediate\Build\Win64\x64\UnrealEditor\Development\PoltergEYEst\PoltergEYEstPickUpComponent.gen.cpp.obj"
+"C:\Users\rodri\Documents\Unreal Projects\PoltergEYEst\Intermediate\Build\Win64\x64\UnrealEditor\Development\PoltergEYEst\PoltergEYEstProjectile.gen.cpp.obj"
+"C:\Users\rodri\Documents\Unreal Projects\PoltergEYEst\Intermediate\Build\Win64\x64\UnrealEditor\Development\PoltergEYEst\PoltergEYEstWeaponComponent.gen.cpp.obj"
+"C:\Users\rodri\Documents\Unreal Projects\PoltergEYEst\Intermediate\Build\Win64\x64\UnrealEditor\Development\PoltergEYEst\PoltergEYEst.cpp.obj"
+"C:\Users\rodri\Documents\Unreal Projects\PoltergEYEst\Intermediate\Build\Win64\x64\UnrealEditor\Development\PoltergEYEst\PoltergEYEstCharacter.cpp.obj"
+"C:\Users\rodri\Documents\Unreal Projects\PoltergEYEst\Intermediate\Build\Win64\x64\UnrealEditor\Development\PoltergEYEst\PoltergEYEstGameMode.cpp.obj"
+"C:\Users\rodri\Documents\Unreal Projects\PoltergEYEst\Intermediate\Build\Win64\x64\UnrealEditor\Development\PoltergEYEst\PoltergEYEstPickUpComponent.cpp.obj"
+"C:\Users\rodri\Documents\Unreal Projects\PoltergEYEst\Intermediate\Build\Win64\x64\UnrealEditor\Development\PoltergEYEst\PoltergEYEstProjectile.cpp.obj"
+"C:\Users\rodri\Documents\Unreal Projects\PoltergEYEst\Intermediate\Build\Win64\x64\UnrealEditor\Development\PoltergEYEst\PoltergEYEstWeaponComponent.cpp.obj"
+"C:\Users\rodri\Documents\Unreal Projects\PoltergEYEst\Intermediate\Build\Win64\x64\UnrealEditor\Development\PoltergEYEst\PerModuleInline.gen.cpp.obj"
+"C:\Users\rodri\Documents\Unreal Projects\PoltergEYEst\Intermediate\Build\Win64\x64\UnrealEditor\Development\PoltergEYEst\Default.rc2.res"
+/OUT:"C:\Users\rodri\Documents\Unreal Projects\PoltergEYEst\Intermediate\Build\Win64\x64\UnrealEditor\Development\PoltergEYEst\UnrealEditor-PoltergEYEst.lib"

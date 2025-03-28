@@ -1,13 +1,13 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\rodri\\documents\\unreal projects\\poltergeyest\\source\\poltergeyest\\poltergeyestprojectile.cpp",
+        "Source": "c:\\users\\rodri\\documents\\github\\3d_game_project\\poltergeyest\\source\\poltergeyest\\poltergeyestprojectile.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\rodri\\documents\\unreal projects\\poltergeyest\\intermediate\\build\\win64\\x64\\poltergeyesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "c:\\users\\rodri\\documents\\github\\3d_game_project\\poltergeyest\\intermediate\\build\\win64\\x64\\poltergeyesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\rodri\\documents\\unreal projects\\poltergeyest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\poltergeyest\\definitions.poltergeyest.h",
-            "c:\\users\\rodri\\documents\\unreal projects\\poltergeyest\\source\\poltergeyest\\poltergeyestprojectile.h",
-            "c:\\users\\rodri\\documents\\unreal projects\\poltergeyest\\intermediate\\build\\win64\\unrealeditor\\inc\\poltergeyest\\uht\\poltergeyestprojectile.generated.h",
+            "c:\\users\\rodri\\documents\\github\\3d_game_project\\poltergeyest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\poltergeyest\\definitions.poltergeyest.h",
+            "c:\\users\\rodri\\documents\\github\\3d_game_project\\poltergeyest\\source\\poltergeyest\\poltergeyestprojectile.h",
+            "c:\\users\\rodri\\documents\\github\\3d_game_project\\poltergeyest\\intermediate\\build\\win64\\unrealeditor\\inc\\poltergeyest\\uht\\poltergeyestprojectile.generated.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\movementcomponent.generated.h",
