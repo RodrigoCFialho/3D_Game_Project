@@ -12,7 +12,10 @@
 				"C:/Users/rodri/Documents/GitHub/3D_Game_Project/PoltergEYEst/Content/Materials/M_Sphere.uasset",
 				"C:/Users/rodri/Documents/GitHub/3D_Game_Project/PoltergEYEst/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
 				"C:/Users/rodri/Documents/GitHub/3D_Game_Project/PoltergEYEst/Content/IMC_Rotation.uasset",
-				"C:/Users/rodri/Documents/GitHub/3D_Game_Project/PoltergEYEst/Content/IA_Rotate.uasset"
+				"C:/Users/rodri/Documents/GitHub/3D_Game_Project/PoltergEYEst/Content/IA_Rotate.uasset",
+				"C:/Users/rodri/Documents/GitHub/3D_Game_Project/PoltergEYEst/Content/Blueprints/Platform.uasset",
+				"C:/Users/rodri/Documents/GitHub/3D_Game_Project/PoltergEYEst/Content/Blueprints/BP_Sphere.uasset",
+				"C:/Users/rodri/Documents/GitHub/3D_Game_Project/PoltergEYEst/Content/Blueprints/BP_Platform.uasset"
 			]
 		}
 	]
