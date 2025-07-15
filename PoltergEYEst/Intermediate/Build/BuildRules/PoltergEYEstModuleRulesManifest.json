@@ -1,10 +1,10 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\rodri\\Documents\\GitHub\\3D_Game_Project\\PoltergEYEst\\Source\\PoltergEYEst\\PoltergEYEst.Build.cs",
-		"C:\\Users\\rodri\\Documents\\GitHub\\3D_Game_Project\\PoltergEYEst\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
-		"C:\\Users\\rodri\\Documents\\GitHub\\3D_Game_Project\\PoltergEYEst\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
-		"C:\\Users\\rodri\\Documents\\GitHub\\3D_Game_Project\\PoltergEYEst\\Source\\PoltergEYEst.Target.cs",
-		"C:\\Users\\rodri\\Documents\\GitHub\\3D_Game_Project\\PoltergEYEst\\Source\\PoltergEYEstEditor.Target.cs"
+		"E:\\Maria\\Unreal\\Github\\3D_Game_Project\\PoltergEYEst\\Source\\PoltergEYEst\\PoltergEYEst.Build.cs",
+		"E:\\Maria\\Unreal\\Github\\3D_Game_Project\\PoltergEYEst\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
+		"E:\\Maria\\Unreal\\Github\\3D_Game_Project\\PoltergEYEst\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
+		"E:\\Maria\\Unreal\\Github\\3D_Game_Project\\PoltergEYEst\\Source\\PoltergEYEst.Target.cs",
+		"E:\\Maria\\Unreal\\Github\\3D_Game_Project\\PoltergEYEst\\Source\\PoltergEYEstEditor.Target.cs"
 	],
 	"EngineVersion": "5.5.4"
 }

@@ -1,6 +1,6 @@
 /I "."
-/I "C:\Users\rodri\Documents\GitHub\3D_Game_Project\PoltergEYEst\Intermediate\Build\Win64\UnrealEditor\Inc\PoltergEYEst\UHT"
-/I "C:\Users\rodri\Documents\GitHub\3D_Game_Project\PoltergEYEst\Source"
+/I "E:\Maria\Unreal\Github\3D_Game_Project\PoltergEYEst\Intermediate\Build\Win64\UnrealEditor\Inc\PoltergEYEst\UHT"
+/I "E:\Maria\Unreal\Github\3D_Game_Project\PoltergEYEst\Source"
 /I "Runtime\Core\Public"
 /I "Runtime\Core\Internal"
 /I "Runtime\TraceLog\Public"

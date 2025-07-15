@@ -1,13 +1,13 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\rodri\\documents\\github\\3d_game_project\\poltergeyest\\intermediate\\build\\win64\\unrealeditor\\inc\\poltergeyest\\uht\\poltergeyestweaponcomponent.gen.cpp",
+        "Source": "e:\\maria\\unreal\\github\\3d_game_project\\poltergeyest\\intermediate\\build\\win64\\unrealeditor\\inc\\poltergeyest\\uht\\poltergeyestweaponcomponent.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\rodri\\documents\\github\\3d_game_project\\poltergeyest\\intermediate\\build\\win64\\x64\\poltergeyesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "e:\\maria\\unreal\\github\\3d_game_project\\poltergeyest\\intermediate\\build\\win64\\x64\\poltergeyesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\rodri\\documents\\github\\3d_game_project\\poltergeyest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\poltergeyest\\definitions.poltergeyest.h",
-            "c:\\users\\rodri\\documents\\github\\3d_game_project\\poltergeyest\\source\\poltergeyest\\poltergeyestweaponcomponent.h",
-            "c:\\users\\rodri\\documents\\github\\3d_game_project\\poltergeyest\\intermediate\\build\\win64\\unrealeditor\\inc\\poltergeyest\\uht\\poltergeyestweaponcomponent.generated.h"
+            "e:\\maria\\unreal\\github\\3d_game_project\\poltergeyest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\poltergeyest\\definitions.poltergeyest.h",
+            "e:\\maria\\unreal\\github\\3d_game_project\\poltergeyest\\source\\poltergeyest\\poltergeyestweaponcomponent.h",
+            "e:\\maria\\unreal\\github\\3d_game_project\\poltergeyest\\intermediate\\build\\win64\\unrealeditor\\inc\\poltergeyest\\uht\\poltergeyestweaponcomponent.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
