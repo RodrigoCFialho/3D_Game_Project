@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PoltergEYEstModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25fd63beb7a538fd5e92ac5ce5d765f1b727153a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f408edebe2edeb7978a4023d2663dd71b0a30ea4")]
 [assembly: System.Reflection.AssemblyProductAttribute("PoltergEYEstModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PoltergEYEstModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
