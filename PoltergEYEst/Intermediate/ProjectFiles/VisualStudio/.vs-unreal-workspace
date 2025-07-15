@@ -1,5 +1,20 @@
 {
   "targets": {
+    "PoltergEYEst": {
+      "targetType": "Game",
+      "targetPath": "C:\\Users\\rodri\\Documents\\GitHub\\3D_Game_Project\\PoltergEYEst\\Source\\PoltergEYEst.Target.cs",
+      "projectPath": "C:\\Users\\rodri\\Documents\\GitHub\\3D_Game_Project\\PoltergEYEst\\PoltergEYEst.uproject",
+      "configurations": [
+        "DebugGame"
+      ],
+      "platforms": [
+        "Win64"
+      ],
+      "architectures": [],
+      "configurationsAndPlatforms": [
+        "DebugGame-Win64"
+      ]
+    },
     "PoltergEYEstEditor": {
       "targetType": "Editor",
       "targetPath": "C:\\Users\\rodri\\Documents\\GitHub\\3D_Game_Project\\PoltergEYEst\\Source\\PoltergEYEstEditor.Target.cs",

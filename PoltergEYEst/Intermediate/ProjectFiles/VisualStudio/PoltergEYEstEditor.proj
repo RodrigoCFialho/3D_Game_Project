@@ -5,18 +5,6 @@
       <Configuration>Invalid</Configuration>
       <Platform>x64</Platform>
     </ProjectConfiguration>
-    <ProjectConfiguration Include="DebugGame|x64">
-      <Configuration>DebugGame</Configuration>
-      <Platform>x64</Platform>
-    </ProjectConfiguration>
-    <ProjectConfiguration Include="Win64_arm64_DebugGame|x64">
-      <Configuration>Win64_arm64_DebugGame</Configuration>
-      <Platform>x64</Platform>
-    </ProjectConfiguration>
-    <ProjectConfiguration Include="Win64_arm64ec_DebugGame|x64">
-      <Configuration>Win64_arm64ec_DebugGame</Configuration>
-      <Platform>x64</Platform>
-    </ProjectConfiguration>
     <ProjectConfiguration Include="Development|x64">
       <Configuration>Development</Configuration>
       <Platform>x64</Platform>
@@ -37,39 +25,6 @@
   <Import Project="UECommon.props" />
   <ImportGroup Label="ExtensionSettings" />
   <PropertyGroup Label="UserMacros" />
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DebugGame|x64'">
-    <NMakeBuildCommandLine>$(_UProjectNMakeBuildCommandLine)</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>$(_UProjectNMakeReBuildCommandLine)</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>$(_UProjectNMakeCleanCommandLine)</NMakeCleanCommandLine>
-    <NMakeOutput>$(_UProjectNMakeOutput)</NMakeOutput>
-  </PropertyGroup>
-  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='DebugGame|x64'">
-    <NMakeCompile>
-      <NMakeCompileFileCommandLine>$(_UProjectNMakeCompileFileCommandLine)</NMakeCompileFileCommandLine>
-    </NMakeCompile>
-  </ItemDefinitionGroup>
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Win64_arm64_DebugGame|x64'">
-    <NMakeBuildCommandLine>$(_UProjectNMakeBuildCommandLine)</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>$(_UProjectNMakeReBuildCommandLine)</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>$(_UProjectNMakeCleanCommandLine)</NMakeCleanCommandLine>
-    <NMakeOutput>$(_UProjectNMakeOutput)</NMakeOutput>
-  </PropertyGroup>
-  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Win64_arm64_DebugGame|x64'">
-    <NMakeCompile>
-      <NMakeCompileFileCommandLine>$(_UProjectNMakeCompileFileCommandLine)</NMakeCompileFileCommandLine>
-    </NMakeCompile>
-  </ItemDefinitionGroup>
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Win64_arm64ec_DebugGame|x64'">
-    <NMakeBuildCommandLine>$(_UProjectNMakeBuildCommandLine)</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>$(_UProjectNMakeReBuildCommandLine)</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>$(_UProjectNMakeCleanCommandLine)</NMakeCleanCommandLine>
-    <NMakeOutput>$(_UProjectNMakeOutput)</NMakeOutput>
-  </PropertyGroup>
-  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Win64_arm64ec_DebugGame|x64'">
-    <NMakeCompile>
-      <NMakeCompileFileCommandLine>$(_UProjectNMakeCompileFileCommandLine)</NMakeCompileFileCommandLine>
-    </NMakeCompile>
-  </ItemDefinitionGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development|x64'">
     <NMakeBuildCommandLine>$(_UProjectNMakeBuildCommandLine)</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>$(_UProjectNMakeReBuildCommandLine)</NMakeReBuildCommandLine>
