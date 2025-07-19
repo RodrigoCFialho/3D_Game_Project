@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rodri\\documents\\github\\3d_game_project\\poltergeyest\\intermediate\\build\\win64\\unrealgame\\inc\\poltergeyest\\uht\\poltergeyestweaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rodri\\documents\\github\\3d_game_project\\poltergeyest\\intermediate\\build\\win64\\x64\\poltergeyest\\shipping\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\rodri\\documents\\github\\3d_game_project\\poltergeyest\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\poltergeyest\\definitions.poltergeyest.h",
+            "c:\\users\\rodri\\documents\\github\\3d_game_project\\poltergeyest\\source\\poltergeyest\\poltergeyestweaponcomponent.h",
+            "c:\\users\\rodri\\documents\\github\\3d_game_project\\poltergeyest\\intermediate\\build\\win64\\unrealgame\\inc\\poltergeyest\\uht\\poltergeyestweaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
