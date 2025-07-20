@@ -803,6 +803,7 @@ ConfigSystem.Mac.Engine:StaticMeshLODSettings:LargeProp:0=(NumLODs=4,MaxNumStrea
 ConfigSystem.Mac.Engine:StaticMeshLODSettings:LevelArchitecture:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LightMapResolution=32,LODPercentTriangles=50,PixelError=12,SilhouetteImportance=4,Name=LOCTEXT("LevelArchitectureLOD","Level Architecture"))
 ConfigSystem.Mac.Engine:StaticMeshLODSettings:SmallProp:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("SmallPropLOD","Small Prop"))
 ConfigSystem.Mac.Engine:StaticMeshLODSettings:Vista:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=0,Name=LOCTEXT("VistaLOD","Vista"))
+ConfigSystem.Mac.Input:InputPlatformSettings_Mac InputPlatformSettings:MaxPlatformUserCount:0=8
 ConfigSystem.<Editor>.../../../Engine/Config/ConsoleVariables.ini:Startup:ds.CADTranslator.Meshing.ActivateThinZoneMeshing:0=false
 ConfigSystem.<Editor>.../../../Engine/Config/ConsoleVariables.ini:Startup:ds.CADTranslator.Stitching.RemoveThinFaces:0=false
 ConfigSystem.<Editor>.../../../Engine/Config/ConsoleVariables.ini:Startup:fx.SkipVectorVMBackendOptimizations:0=1
@@ -2944,13 +2945,11 @@ ConfigSystem.<Editor>.Engine:Kismet:bChangeDefaultValueWithoutReinstancing:0=tru
 ConfigSystem.<Editor>.Engine:Kismet:bDeferDependencyLoads:0=true
 ConfigSystem.<Editor>.Engine:Kismet:bDisplaysLayout:0=false
 ConfigSystem.<Editor>.Engine:Kismet:bEnableInheritableComponents:0=true
-ConfigSystem.<Editor>.Engine:Kismet:bExecutionAfterReturn:0=false
 ConfigSystem.<Editor>.Engine:Kismet:bIgnoreCompileOnLoadErrorsOnBuildMachine:0=false
 ConfigSystem.<Editor>.Engine:Kismet:bOptimizeAdjacentStates:0=true
 ConfigSystem.<Editor>.Engine:Kismet:bOptimizeExecutionFlowStack:0=true
 ConfigSystem.<Editor>.Engine:Kismet:bPersistentUberGraphFrame:0=true
 ConfigSystem.<Editor>.Engine:Kismet:bTurnOffEditorConstructionScript:0=false
-ConfigSystem.<Editor>.Engine:Kismet:bUseLegacyAnimBlueprintThreadSafetyChecks:0=true
 ConfigSystem.<Editor>.Engine:Kismet:bUseLocalGraphVariables:0=false
 ConfigSystem.<Editor>.Engine:LogFiles:LogTimes:0=True
 ConfigSystem.<Editor>.Engine:LogFiles:MaxLogFilesOnDisk:0=10
@@ -3045,7 +3044,7 @@ ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:L
 ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformBuildConfig:0=()
 ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformBuildTarget:0=()
 ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformTargetFlavorName:0=(("Android", "Android_ASTC"))
-ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:StagingDirectory:0=(Path="C/Users/rodri/Downloads")
+ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:StagingDirectory:0=(Path="C/Users/rodri/Downloads/3DGP_GameProgramming")
 ConfigSystem.<Editor>.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:0=(PrimaryAssetType="Map",AssetBaseClass=/Script/Engine.World,bHasBlueprintClasses=False,bIsEditorOnly=True,Directories=((Path="/Game/Maps")),SpecificAssets=,Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=Unknown))
 ConfigSystem.<Editor>.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:1=(PrimaryAssetType="PrimaryAssetLabel",AssetBaseClass=/Script/Engine.PrimaryAssetLabel,bHasBlueprintClasses=False,bIsEditorOnly=True,Directories=((Path="/Game")),SpecificAssets=,Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=Unknown))
 ConfigSystem.<Editor>.Game:/Script/Engine.DebugCameraController:bShowSelectedInfo:0=true
