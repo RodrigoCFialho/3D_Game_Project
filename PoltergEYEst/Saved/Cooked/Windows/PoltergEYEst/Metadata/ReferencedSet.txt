@@ -293,7 +293,13 @@
 /Engine/VREditor/TransformGizmo/Xray
 /Game/Animations/Broom/Anim_Broom_Idle
 /Game/Animations/Princess/Anim_Princess_Idle
+/Game/Animations/Witch/AB_Witch
+/Game/Animations/Witch/Anim_Witch_Alert
 /Game/Animations/Witch/Anim_Witch_Idle
+/Game/Animations/Witch/Anim_Witch_Run
+/Game/Blueprints/AI/AIC_PathFollower
+/Game/Blueprints/AI/BP_AIWitch
+/Game/Blueprints/AIHelpers/BP_Waypoint
 /Game/Blueprints/BP_Platform
 /Game/Blueprints/BP_Princess
 /Game/Blueprints/BP_Sphere
